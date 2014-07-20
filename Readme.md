@@ -1,5 +1,7 @@
 Flexible ascii progress bar.
 
+** Forked from visionmedia to add optional rendering **
+
 ## Installation
 
 ```bash
